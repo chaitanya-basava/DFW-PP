@@ -1,1 +1,1 @@
-# DFW-MM: Dynamic feature weighting using Mixture of Modelsfor Popularity Prediction Dynamics
+# DFW-MM: Dynamic feature weighting using Mixture of Models for Popularity Prediction Dynamics
