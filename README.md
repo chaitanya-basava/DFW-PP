@@ -5,3 +5,10 @@ The increasing popularity of social media platforms makes it important to study 
 
 ### Contributors
 
+- [Viswanatha Reddy G](https://www.linkedin.com/in/viswa98/)
+- [Chaitanya B S N V](https://www.linkedin.com/in/chaitu-basava) 
+- [Prathyush P](https://www.linkedin.com/in/prathyushpotluri/)
+- [Sumanth M](https://www.linkedin.com/in/sumanthmanduru/)
+- [Mrinalini C](https://www.linkedin.com/in/mrinalini-chava/)
+- [Dileep Kumar P](https://www.linkedin.com/in/dkpuvvula/)
+- [Snehasis Mukherjee](https://www.linkedin.com/in/snehasis-mukherjee-17b64823/)
